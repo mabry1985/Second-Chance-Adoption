@@ -3,27 +3,76 @@ h1 {
   text-decoration: underline;
 }
 
+body {
+  text-align: center;
+  font-family: sans-serif;
+  font-color: gray;
+}
+
 .pepper {
   width: 300px;
   float: left;
+  border: 2px black solid;
+  padding-top: 5px;
+  margin: 5px;
 }
 
 .lucky {
   width: 300px;
   float: left;
+  border: 2px black solid;
+  padding-top: 5px;
+  margin: 5px;
 }
 
 .spot {
   width: 300px;
   float: left;
+  border: 2px black solid;
+  padding-top: 5px;
+  margin: 5px;
 }
 
 .fido {
   width: 300px;
   float: left;
+  border: 2px black solid;
+  padding-top: 5px;
+  margin: 5px;
 }
 
 .dot {
   width: 300px;
   float: left;
+  border: 2px black solid;
+  padding-top: 5px;
+  margin: 5px;
+}
+
+.pepper p a {
+  font-style: italic;
+}
+
+.spot p a {
+  color: blue;
+}
+
+.dot p a {
+  font-family: cursive;
+}
+
+.lucky p a {
+  font-weight: bold;
+}
+
+.fido p a {
+  font-family: fantasy;
+}
+
+.important {
+  font-size: 20px;
+}
+
+.unimportant {
+  font-size: 15px;
 }
