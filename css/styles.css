@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.pepper {
+  width: 300px;
+  float: left;
+}
+
+.lucky {
+  width: 300px;
+  float: left;
+}
+
+.spot {
+  width: 300px;
+  float: left;
+}
+
+.fido {
+  width: 300px;
+  float: left;
+}
+
+.dot {
+  width: 300px;
+  float: left;
+}
